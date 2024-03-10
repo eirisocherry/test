@@ -1,6 +1,6 @@
 ---
 name: Other
-about: Ask anything
+about: Ask something
 title: ''
 labels: Other
 assignees: ''
