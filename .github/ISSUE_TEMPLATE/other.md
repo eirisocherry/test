@@ -2,7 +2,7 @@
 name: Other
 about: Ask something
 title: ''
-labels: Other
+labels: "(an) Other"
 assignees: ''
 
 ---
